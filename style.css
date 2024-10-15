@@ -14,6 +14,11 @@ body {
     color: #ffffff;
     overflow: hidden;
   }
+
+img {
+    max-width: 100%; /* Asegura que las imágenes no sean más grandes que su contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
   
   .profile-card {
     text-align: center;
