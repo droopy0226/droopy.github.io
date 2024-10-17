@@ -105,3 +105,7 @@ img {
   .footer-social-links a:hover:before{
       background: #ffffff;
   }
+
+.footer-social-links a {
+  margin: 0 20px;
+}
